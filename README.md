@@ -50,8 +50,11 @@ Export Source:
 Export Image:
 
 
+## Contributing
 
+We love contributions! If you'd like to contribute please submit a pull request.
 
+## Donate
 
 
 
